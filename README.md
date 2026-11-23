@@ -9,6 +9,6 @@ veröffentlicht.
 
 Autor/-In: Albrecht Knauber 
 
-Bilder, Dateien und Texte des Leibniz-Zentrum für Archäologie [LEIZA](https://www.leiza.de/) sind unter CC BY-SA 4.0 und Die digitalen Daten dürfen gespeichert, aber nicht veröffentlicht werden.
+Bilder, Dateien und Texte des Leibniz-Zentrum für Archäologie [LEIZA](https://www.leiza.de/) unterliegen CC BY-SA 4.0, die digitalen Daten dürfen gespeichert, aber nicht veröffentlicht werden.
 
 
